@@ -10,6 +10,7 @@
       ],
       "domain_suffix": [
         "googlevideo.com",
+        "c.youtube.com",
         "gvt1.com",
         "gvt2.com",
         "gvt3.com",
@@ -17,8 +18,9 @@
         "gvt2-cn.com"
       ],
       "domain_regex": [
-        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
-        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+        "^r[0-9]+---sn-[a-z0-9]+\\.googlevideo\\.com$",
+        "^r[0-9]+---sn-[a-z0-9]+\\.c\\.youtube\\.com$",
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
       ]
     }
   ]
