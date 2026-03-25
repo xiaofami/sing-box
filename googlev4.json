@@ -12,35 +12,31 @@
         "scholar.google.com",
         "265.com",
         "ai.google.dev",
-        "notebooklm.googleapis.com",
-        "abc.xyz",
-        "g.co"
+        "notebooklm.googleapis.com"
       ],
       "domain_suffix": [
         "google.com",
         "youtube.com",
         "googleapis.com",
         "googleusercontent.com",
+        "gstatic.com",
+        "gstatic.cn",
+        "ytimg.com",
+        "ggpht.com",
+        "ggpht.cn",
         "scholar.google",
         "blogspot",
         "firebase",
-        "googleapps",
-        "googlemail",
         "android.com",
         "chrome.com",
-        "waze.com",
         "gmail.com",
         "firebaseio.com",
         "firebaseapp.com",
         "appspot.com",
         "chromium.org",
         "tensorflow.org",
-        "dart.dev",
-        "flutter.dev",
-        "golang.org",
-        "web.dev",
-        "v8.dev",
-        "withgoogle.com"
+        "withgoogle.com",
+        "1e100.net"
       ]
     }
   ]
