@@ -2,11 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": [],
-      "domain_suffix": ["googlevideo.com"],
-      "domain_regex": [
-        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$"
-      ]
+      "domain_suffix": "googlevideo.com"
     }
   ]
 }
