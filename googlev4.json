@@ -463,7 +463,7 @@
         "get.page",
         "get.rsvp",
         "getbumptop.com",
-        "ggoogle.com",
+        "gggoogle.com",
         "ggpht.cn",
         "ggpht.com",
         "gipscorp.com",
@@ -709,6 +709,7 @@
         "googlecompare.co.uk",
         "googledanmark.com",
         "googledomains.com",
+        "googledomains.com",
         "googledrive.com",
         "googlee.com",
         "googleearth.com",
@@ -947,6 +948,7 @@
         "youtube.co.ve",
         "youtube.co.za",
         "youtube.co.zw",
+        "youtube.com",
         "youtube.com.ar",
         "youtube.com.au",
         "youtube.com.az",
@@ -1071,10 +1073,14 @@
         "youtubego.com.br",
         "youtubego.id",
         "youtubego.in",
-        "youtub Kids.com",
+        "youtub kids.com",
         "youtubemobilesupport.com",
         "yt.be",
+        "ytimg.com",
         "zukunftswerkstatt.de"
+      ],
+      "domain_regex": [
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
       ]
     }
   ]
