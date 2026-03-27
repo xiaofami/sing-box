@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "community.akamai.steamstatic.com",
+        "steamstat.us",
+        "s.team"
+      ],
+      "domain_suffix": [
+        "steampowered.com",
+        "steamcommunity.com",
+        "steam-chat.com",
+        "steamgames.com",
+        "steamserver.net",
+        "steam.tv"
+      ]
+    }
+  ]
+}

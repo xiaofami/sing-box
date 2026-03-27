@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "doubleclick.net",
+        "googleadservices.com",
+        "googlesyndication.com",
+        "admob.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "googletagmanager.com"
+      ],
+      "domain_suffix": [
+        "doubleclick.net",
+        "doubleclick.com",
+        "doubleclick-cn.net",
+        "googleadservices.com",
+        "googleadservices-cn.com",
+        "googlesyndication.com",
+        "googlesyndication-cn.com",
+        "googleads.com",
+        "googleads-cn.com",
+        "admob.com",
+        "admob-cn.com",
+        "google-analytics.com",
+        "google-analytics-cn.com",
+        "googleoptimize.com",
+        "googletagmanager.com"
+      ]
+    }
+  ]
+}
